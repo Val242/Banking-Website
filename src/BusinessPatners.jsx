@@ -4,6 +4,8 @@ import summit from './assets/summit.png'
 import holcim from './assets/holcim.png'
 import etv from './assets/etv.png'
 
+
+
 function BusinessPatners() {
   return (
     <div className=' bg-pink-50'>
