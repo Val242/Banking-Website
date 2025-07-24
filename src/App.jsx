@@ -7,10 +7,12 @@ import IPDC from './IPDC'
 import OurServices from './OurServices'
 import BestResults from './BestResults'
 import NewsLetter from './NewsLetter'
+import Footer from './Footer'
 
 function App() {
   return (
 <>
+
 <Navbar/>
 <Hero></Hero>
 <Extra></Extra>
@@ -19,6 +21,7 @@ function App() {
 <OurServices></OurServices>
 <BestResults></BestResults>
 <NewsLetter></NewsLetter>
+<Footer></Footer>
 
 
 </>  )
